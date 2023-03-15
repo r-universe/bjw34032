@@ -3,8 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "oro.dicom"]
+	path = oro.dicom
+	url = https://github.com/bjw34032/oro.dicom
+	shallow = true
+	registered = true
 [submodule "oro.nifti"]
 	path = oro.nifti
 	url = https://github.com/bjw34032/oro.nifti
+	shallow = true
+	registered = true
+[submodule "oro.pet"]
+	path = oro.pet
+	url = https://github.com/bjw34032/oro.pet
+	shallow = true
+	registered = true
+[submodule "waveslim"]
+	path = waveslim
+	url = https://github.com/bjw34032/waveslim
 	shallow = true
 	registered = true
